@@ -1,0 +1,6 @@
+{
+  "name": "Eagle Stack",
+  "description": "Premium futuristic tech corporate website with an aurora theme, showcasing professional app development, website development, UI/UX design, and technology training solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
